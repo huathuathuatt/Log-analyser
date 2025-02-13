@@ -18,7 +18,7 @@ Timestamp: Jan 31 15:50:00, ALERT[*] User alice failed to execute sudo ls
 # How to Use:
 1. Clone the Repositor
 ```bash
-git clone https://github.com/huathuathuatt/log-analyser.git
+git clone https://github.com/huathuathuatt/Log-analyser.git
 ```
 2. Run the Script
 ```bash
