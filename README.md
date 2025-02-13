@@ -9,12 +9,13 @@ Features:
     sudo Success/Fail Alerts – Identifies both successful and failed sudo commands.
 
 Example Output:
+```bash
 Timestamp: Jan 31 15:12:45, User: alice, Command executed: apt-get
 Timestamp: Jan 31 15:14:10, newuser is added into the system
 Timestamp: Jan 31 15:20:00, olduser is deleted from the system
 Timestamp: Jan 31 15:35:00, bob changed password successfully
 Timestamp: Jan 31 15:50:00, ALERT[*] User alice failed to execute sudo ls
-
+```
 # How to Use:
 1. Clone the Repositor
 ```bash
